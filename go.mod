@@ -3,7 +3,6 @@ module github.com/terraform-providers/terraform-provider-google
 require (
 	cloud.google.com/go/bigtable v1.1.0
 	github.com/apparentlymart/go-cidr v1.0.1
-	github.com/chzyer/readline v0.0.0-20180603132655-2972be24d48e // indirect
 	github.com/client9/misspell v0.3.4
 	github.com/davecgh/go-spew v1.1.1
 	github.com/dnaeon/go-vcr v1.0.1
@@ -11,18 +10,13 @@ require (
 	github.com/gammazero/deque v0.0.0-20180920172122-f6adf94963e4 // indirect
 	github.com/gammazero/workerpool v0.0.0-20181230203049-86a96b5d5d92
 	github.com/gogo/protobuf v1.2.0 // indirect
-	github.com/golang/mock v1.4.3 // indirect
 	github.com/golangci/golangci-lint v1.18.0
 	github.com/hashicorp/errwrap v1.0.0
 	github.com/hashicorp/go-cleanhttp v0.5.1
 	github.com/hashicorp/go-multierror v1.0.0
 	github.com/hashicorp/go-version v1.2.0
 	github.com/hashicorp/terraform-plugin-sdk v1.4.0
-	github.com/iancoleman/strcase v0.0.0-20191112232945-16388991a334 // indirect
-	github.com/ianlancetaylor/demangle v0.0.0-20200414190113-039b1ae3a340 // indirect
-	github.com/lyft/protoc-gen-star v0.4.14 // indirect
 	github.com/mitchellh/hashstructure v1.0.0
-	github.com/pborman/uuid v1.2.0 // indirect
 	github.com/sirupsen/logrus v1.2.0 // indirect
 	github.com/stoewer/go-strcase v1.0.2
 	github.com/terraform-providers/terraform-provider-random v0.0.0-20190925200408-30dac3233094
